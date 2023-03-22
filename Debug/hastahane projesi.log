@@ -1,0 +1,13 @@
+﻿  hastahane projesi.cpp
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(340,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(352,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(364,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(392,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(416,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(418,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(535,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(541,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(551,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(592,50): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erdem\source\repos\hastahane projesi\hastahane projesi.cpp(635,34): warning C4018: '<': signed/unsigned mismatch
+  hastahane projesi.vcxproj -> C:\Users\erdem\source\repos\hastahane projesi\Debug\hastahane projesi.exe
